@@ -28,7 +28,15 @@ export default function Home() {
       </View>
 
       <View>
-        <Text style={{ fontFamily: 'sans-serif', textAlign: 'center', fontWeight: 400, fontSize: 25 }}>
+        <Text
+          style={{
+            fontFamily: 'sans-serif',
+            textAlign: 'center',
+            fontWeight: 400,
+            fontSize: 25,
+            marginTop: 25,
+          }}
+        >
           Your Account
         </Text>
         <Text style={{ fontFamily: 'sans-serif', textAlign: 'center', fontSize: 18 }}>
