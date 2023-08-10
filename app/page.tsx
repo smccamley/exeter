@@ -44,7 +44,7 @@ export default function Home() {
         </Text>
       </View>
       <View style={{ marginTop: 40 }}>
-        <Text style={{ fontFamily: 'sans-serif', textAlign: 'center' }}>coming soon</Text>
+        <Text style={{ fontFamily: 'sans-serif', textAlign: 'center' }}>coming soon...</Text>
       </View>
     </View>
   )
